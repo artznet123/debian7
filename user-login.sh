@@ -64,4 +64,4 @@ echo "------------------------------------------------"
 
 echo "";
 
-echo "Artznet @Aditya Suwito";
+echo "Script By Ifan Glewo";
